@@ -1,0 +1,12 @@
+Residential 1 533000 100 0 572 Randon Road
+Commercial 0 50000000000000 123 1 0.30 350 Red Towers
+Residential 0 25000000000 234 1 142 Cs Blvd
+
+Residential 0 250000 345 1 142 Ca Blvd
+Farm 0 3900000 49 234 FarmFarm lane
+Commercial 0 1234567 56 1 0.20 350 Blue Towers
+Residential 1 533000 456 0 572 Random Road
+
+Farm 1 2300000 23 234 Farmland lane
+Commerical 23343.2 Wrong Way
+party

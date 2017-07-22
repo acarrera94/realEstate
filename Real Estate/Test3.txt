@@ -1,0 +1,12 @@
+Residential 0 533000 425 1 300 Randon Road
+Residential 1 533000000000000 45 0 572 Randon Road
+tricky
+Commercial 0 1234567 12 1 0.20 300 Blue Bag
+Commercial 1 8347329 23 0 0.30 350 Blue Bag
+
+missing
+
+Residential 1 43534 34 0 234 Green Blvd
+Farm 1 8800000 90 234 Party lane
+Farm 0 7700000 12 234 Meeting lane
+Frammm 0 7700000 12 234 Meeting lane

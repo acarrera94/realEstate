@@ -1,0 +1,16 @@
+Commercial 0 598776 123 1 0.23 977 Tude Block
+
+junk
+
+Farm 1 23000000000000 23 234 Closeaway lane
+Hotman
+
+Commercial 0 500900230000 234 0 0.1 354 Dragon Tree
+Residential 0 2222662 345 1 101 Block Road
+Residential 1 5000000 456 0 129 Locust Lane
+Farm 1 2300000 23 234 Faraway lane
+Residential 0 7334211 567 0 85 Blue Court
+Residential 0 Banana-boot Road
+
+Commercial 1 43848393 213 1 0.2 200 Green Grass
+
